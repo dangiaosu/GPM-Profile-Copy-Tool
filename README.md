@@ -42,7 +42,7 @@ Kết nối mạng Internet (khi cài đặt lần đầu).
 - Nếu sử dụng Git:
   - Mở CMD hoặc Terminal, gõ lệnh:
     ```bash
-    git clone [https://github.com/yourusername/GPM-Profile-Copy-Tool.git](https://github.com/dangiaosu/GPM-Profile-Copy-Tool)
+    git clone https://github.com/dangiaosu/GPM-Profile-Copy-Tool
     ```
     và nhấn **Enter**.
 - Hoặc tải file ZIP từ GitHub:
