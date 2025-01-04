@@ -10,9 +10,7 @@ Copy thư mục profile GPM với tên profile của nó, giúp đỡ nhầm l�
 ## 🌟 Tính Năng
 - **Sao chép thư mục hàng loạt**: Sử dụng thông tin từ file Excel để sao chép thư mục từ nguồn đến đích.
 - **Hỗ trợ đa luồng**: Tăng tốc sao chép với `robocopy` (32 luồng mặc định).
-- **Xóa thư mục dư thừa**: Tự động đồng bộ thư mục nguồn và đích.
 - **Giao diện dễ sử dụng**: Hỗ trợ người dùng qua giao diện GUI đơn giản.
-- **Ghi nhật ký (log)**: Tạo file log chi tiết về tiến trình sao chép.
 
 ---
 
@@ -44,7 +42,7 @@ Kết nối mạng Internet (khi cài đặt lần đầu).
 - Nếu sử dụng Git:
   - Mở CMD hoặc Terminal, gõ lệnh:
     ```bash
-    git clone https://github.com/yourusername/GPM-Profile-Copy-Tool.git
+    git clone [https://github.com/yourusername/GPM-Profile-Copy-Tool.git](https://github.com/dangiaosu/GPM-Profile-Copy-Tool)
     ```
     và nhấn **Enter**.
 - Hoặc tải file ZIP từ GitHub:
